@@ -1,4 +1,4 @@
 # HelloGit
-my first test
+my first try
 
 This is just a test
